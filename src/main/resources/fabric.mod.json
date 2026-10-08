@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraftoverlay",
+  "version": "0.0.1b",
+  "name": "Minecraft Overlay",
+  "description": "A minimal Fabric mod foundation for Minecraft 26.2.",
+  "authors": [
+    "I114rk"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.i114rk.minecraftoverlay.MinecraftOverlay"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25"
+  }
+}

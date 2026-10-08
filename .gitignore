@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Local files
+run/
+logs/
+*.log
