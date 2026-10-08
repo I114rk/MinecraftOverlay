@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "minecraftoverlay",
-  "version": "0.0.2b",
+  "version": "0.0.3b",
   "name": "Minecraft Overlay",
   "description": "A Steam-style overlay foundation for Minecraft 26.2.",
   "authors": [

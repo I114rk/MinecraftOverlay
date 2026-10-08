@@ -2,5 +2,10 @@
   "key.category.minecraftoverlay.steam_overlay": "Steam Overlay",
   "key.minecraftoverlay.steam_overlay_key_1": "Steam Overlay: Key 1",
   "key.minecraftoverlay.steam_overlay_key_2": "Steam Overlay: Key 2",
+  "hud.minecraftoverlay.fps": "FPS: %s",
+  "context.minecraftoverlay.pin": "Закрепить",
+  "context.minecraftoverlay.unpin": "Открепить",
+  "context.minecraftoverlay.edit_layout": "Редактировать макет",
+  "overlay.minecraftoverlay.editing_hint": "Перетащите блок FPS, чтобы переместить его",
   "screen.minecraftoverlay.steam_overlay": "Steam Overlay"
 }
